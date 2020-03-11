@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timeline app dev #1</string>
+    <string name="select_your_grade">クラスを選んでください</string>
+    <string name="welcome">ようこそ</string>
+    <string name="main_menu">メニュー</string>
+    <string-array name="grade_selection">
+        <item>9年</item>
+        <item>8年</item>
+        <item>7年</item>
+        <item>他</item>
+    </string-array>
+    <string-array name="theme_selection">
+        <item>白</item>
+        <item>黒</item>
+        <item>システム</item>
+    </string-array>
+    <string-array name="language_selection">
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+    <string name="pick_a_theme">テーマを選んでください</string>
+    <string name="日本語">日本語</string>
+    <string name="english">English</string>
+    <string name="todo">TODO</string>
+    <string name="language">言語</string>
+    <string name="choose_a_language">言語を選んでください</string>
+    <string name="continuetext">始める</string>>
+</resources>

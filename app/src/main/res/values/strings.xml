@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Timeline app dev #1</string>
+    <string name="welcome">Welcome</string>
+    <string name="select_your_grade">Select your grade</string>
+    <string name="main_menu">main menu</string>
+    <string name="pick_a_theme">Pick a theme</string>
+    <string name="english">English</string>
+    <string name="日本語">日本語</string>
+    <string name="todo">TODO</string>
+    <string name="language">Language</string>
+    <string name="choose_a_language">Choose a language</string>
+    <string name="continuetext">Continue</string>
+    <string name="error">error</string>
+    <string-array name="grade_selection">
+        <item>Grade 9</item>
+        <item>Grade 8</item>
+        <item>Grade 7</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="language_selection">
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+    <string-array name="theme_selection">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System</item>
+    </string-array>>
+</resources>
